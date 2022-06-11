@@ -3,6 +3,11 @@
 <h2>Hello World!</h2>
   <h2> My Name is Ammanabrolu Raju</h2>
   <h2> Welcome to Raju IT </h2>
+  <h2> This is an Automatic pipeline of Jenkins</h2>
+  <h2> Which will deploy in Starting from Dev server to UAT server Automatic build and deploy in all envronments</h2>
+  
+  <h1> Thanks for Watching</h1>
+  
   
   <form action="action_page.php" method="post">
   <div class="imgcontainer">
