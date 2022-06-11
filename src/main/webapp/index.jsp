@@ -8,6 +8,8 @@
   
   <h1> Thanks for Watching</h1>
   
+  <h1> Please SUBSCRIBE FOR MORE VIDEOS</h1>
+  
   
   <form action="action_page.php" method="post">
   <div class="imgcontainer">
